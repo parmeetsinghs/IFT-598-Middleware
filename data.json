@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "customerName": "John",
+        "phoneNumber": "432-875-4719",
+        "address": "Tempe,AZ",
+        "loanAmount": "2000",
+        "interest": "4",
+        "loanTermYears": "2",
+        "loanType":"Home",
+        "description":"Loan for Home"
+    },
+    {
+        "id": 1,
+        "customerName": "Nashvil",
+        "phoneNumber": "123-638-2844",
+        "address": "Gilbert",
+        "loanAmount": "10000",
+        "interest": "3",
+        "loanTermYears": "1",
+        "loanType":"CreditCard",
+        "description":"Loan for Creditcard"
+      },
+      {
+        "id": 2,
+        "customerName": "Melhim",
+        "phoneNumber": "658-865-2947",
+        "address": "Chandler",
+        "loanAmount": "40000",
+        "interest": "7",
+        "loanTermYears": "5",
+        "loanType":"Car",
+        "description":"Loan for Car"
+      },
+      {
+        "id": 3,
+        "customerName": "Ryan",
+        "phoneNumber": "359-295-1934",
+        "address": "Tucson",
+        "loanAmount": "25000",
+        "interest": "10",
+        "loanTermYears": "4",
+        "loanType":"Business",
+        "description":"Loan for Business"
+      },
+      {
+        "id": 4,
+        "customerName": "Kelly",
+        "phoneNumber": "635-295-2942",
+        "address": "New York",
+        "loanAmount": "9000",
+        "interest": "12",
+        "loanTermYears": "1",
+        "loanType":"Personal",
+        "description":"Loan for Personal Use"
+      }
+]
